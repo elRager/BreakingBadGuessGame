@@ -1,0 +1,13 @@
+Walter;true;false;false;false;true;true;false;true;false;false
+Walter Jr;true;false;true;false;false;false;false;false;false;false
+Jesse;true;false;true;false;false;false;false;true;false;false
+Saul;true;false;true;false;false;false;true;false;false;false
+Gus;true;false;true;false;false;true;true;false;false;false
+Skyler;false;true;false;true;false;false;false;false;false;true
+Marie;false;true;true;false;false;false;false;false;false;true
+Hank;true;false;false;false;true;false;false;false;false;true
+Mike;true;false;false;false;true;false;false;true;false;false
+Jane;false;true;true;false;false;false;false;false;false;false
+Tuco;true;false;true;false;false;false;false;false;false;true
+Hector;true;false;false;false;true;false;false;true;true;false
+
